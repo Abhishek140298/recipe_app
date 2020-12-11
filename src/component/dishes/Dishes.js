@@ -11,7 +11,7 @@ const Dishes = () => {
         />
       </div>
       <hr />
-      <h2>PANEER TIKKA RECIPE</h2>
+      <h4>PANEER TIKKA RECIPE</h4>
     </div>
   );
 };
