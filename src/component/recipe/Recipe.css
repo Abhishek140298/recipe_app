@@ -16,10 +16,12 @@ ul {
 	background-color: #ab009e;
 	width: fit-content;
 	margin: auto;
+	border-radius: 10px;
 }
-.thank_you_button{
+.add_recipe_button{
 	background-color: #ab009e;
 	width: fit-content;
 	padding: 10px;
 	margin: auto;
+	border-radius: 5px;
 }

@@ -1,10 +1,11 @@
 import React from 'react';
 import './Dishes.css';
+import {Link} from 'react-router-dom'
 
 const Dishes = () => {
   return (<>
       <h1 className='dishes_heading'>Choose Your Dishes</h1>
-
+   <Link to= '/recipe'>
     <div className='dish' >
       <div className='dish_image_div'>
         <img
@@ -14,7 +15,7 @@ const Dishes = () => {
       </div>
       <hr />
       <h4>PANEER TIKKA RECIPE</h4>
-    </div></>
+    </div></Link></>
   );
 };
 export default Dishes;

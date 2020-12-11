@@ -11,7 +11,7 @@ const Recipe = () => {
           
         </ul>
       </div>
-      <div className='thank_you_button'>Thank You</div>
+      <div className='add_recipe_button'>Add  Your Recipe</div>
       </div>
     
   );
