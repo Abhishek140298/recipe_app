@@ -2,8 +2,10 @@ import React from 'react';
 import './Dishes.css';
 
 const Dishes = () => {
-  return (
-    <div className='dish'>
+  return (<>
+      <h1 className='dishes_heading'>Choose Your Dishes</h1>
+
+    <div className='dish' >
       <div className='dish_image_div'>
         <img
           className='dish_image'
@@ -12,7 +14,7 @@ const Dishes = () => {
       </div>
       <hr />
       <h4>PANEER TIKKA RECIPE</h4>
-    </div>
+    </div></>
   );
 };
 export default Dishes;

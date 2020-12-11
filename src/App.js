@@ -1,15 +1,19 @@
 import React from 'react';
 import Dishes from './component/dishes/Dishes';
 import './App.css';
+import { Switch, Route } from 'react-router-dom';
+import Recipe from './component/recipe/Recipe';
 
 export default class App extends React.Component {
   render() {
     return (
       <>
-        <h1 className='dishes_heading'>Choose Your Dishes</h1>
-        <div className='dish_component'>
-          <Dishes />
-        </div>
+        
+
+        <Switch>
+          <Route  path='/' exact component={Dishes} />
+          <Route  path='/recipe' exact component={Recipe} />
+        </Switch>
       </>
     );
   }
