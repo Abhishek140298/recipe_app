@@ -1,0 +1,25 @@
+.heading {
+  text-align: center;
+  color: #ab009e;
+	margin-bottom: 50px;
+}
+.whole_container {
+  background-color: #f2fcff;
+  min-height: 100vh;
+}
+ul {
+ margin-right: 50px;
+
+}
+.recipe_box{
+
+	background-color: #ab009e;
+	width: fit-content;
+	margin: auto;
+}
+.thank_you_button{
+	background-color: #ab009e;
+	width: fit-content;
+	padding: 10px;
+	margin: auto;
+}
