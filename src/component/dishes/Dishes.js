@@ -6,6 +6,7 @@ import { getRecipeData } from '../../actions/RecipeDataAction';
 
 const Dishes = (props) => {
   console.log(props)
+  
   return (
     <>
       <h1 className='dishes_heading'>Choose Your Dishes</h1>
