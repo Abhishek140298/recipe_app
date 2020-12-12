@@ -10,7 +10,7 @@ const Dishes = () => {
       <div className='dish_image_div'>
         <img
           className='dish_image'
-          src='https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka.jpg'
+          src='https://media.istockphoto.com/photos/fresh-summer-melon-smoothie-picture-id823547466?k=6&m=823547466&s=170667a&w=0&h=w8AmaaRXUH2EvVBgM7LgKx98Rt7w-wcW9xm9h51HkTg='
         />
       </div>
       <hr />
