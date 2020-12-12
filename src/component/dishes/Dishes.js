@@ -2,10 +2,10 @@ import React from 'react';
 import './Dishes.css';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
-import { checkLoading } from '../../actions/RecipeDataAction';
+import { getRecipeData } from '../../actions/RecipeDataAction';
 
 const Dishes = (props) => {
-  console.log(props.isLoading)
+  console.log(props)
   return (
     <>
       <h1 className='dishes_heading'>Choose Your Dishes</h1>
@@ -25,7 +25,7 @@ const Dishes = (props) => {
   );
 };
 const mapStateToProps = ({ RecipeReducer }) => {
-  const { isLoading } = RecipeReducer;
-  return { isLoading };
+  const { isLoading ,recipeData } = RecipeReducer;
+  return { isLoading ,recipeData };
 };
-export default connect(mapStateToProps, { checkLoading })(Dishes);
+export default connect(mapStateToProps,{getRecipeData}  )(Dishes);

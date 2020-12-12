@@ -1,12 +1,12 @@
+const INTIAL_STATE = { isLoading: false, recipeData: [] };
 
-
-const INTIAL_STATE = { isLoading: false};
-
-export default function RecipeDataReducer(state=INTIAL_STATE,action) {
+export default function RecipeDataReducer(state = INTIAL_STATE, action) {
   switch (action.type) {
     case 'LOADING':
       return { ...state, isLoading: true };
-			default:
-			return state;
+    case 'ON_SUCCESS_RECIPE':
+      return { ...state, recipeData: action.payload, isLoading: true };
+    default:
+      return state;
   }
 }
