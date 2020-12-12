@@ -3,79 +3,171 @@
     "id": "0",
     "dishName": "LAVA CAKE ",
     "dishImage": "https://www.crunchycreamysweet.com/wp-content/uploads/2019/02/Molten-chocolate-lava-cake-with-a-strawberry-on-top..jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "• 6 ounces (170g) Milk Chocolate Salted Caramel",
+      "• 1/2 cup (115g; 1 stick) unsalted butter",
+      "• 1/4 cup (31g) all-purpose flour (spoon & leveled)",
+      "• 1/2 cup (60g) confectioners’ sugar",
+      "• 1/8 teaspoon salt",
+      "• 2 large eggs",
+      "• 2 large egg yolks"
+    ]
   },
   {
     "id": "1",
     "dishName": "AVOCADO CHOCOLATE QUINOA",
     "dishImage": "https://www.nestandglow.com/wp-content/uploads/2017/03/quinoa-avocado-chocolate-fudge-cake-recipe-1024x659.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "Soak quinoa 10 mins",
+      "Rinse and boil quinoa with water add with one tbs cocoa powder",
+      "15mins later or until the water dried out and quinoa is ready to serve.",
+      "Let it cold for few mins and add in maple syrup or honey of your choice in quinoa",
+      "Serve with sliced avocado"
+    ]
   },
 
   {
     "id": "2",
     "dishName": "CURRY TOMATO SAUCE",
     "dishImage": "https://image.shutterstock.com/image-photo/tomato-curry-chutney-kerala-india-260nw-760047910.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "Mix Starch in enough water till well dissolve.",
+      "Add all other ingredients except starch in a saucepan. Heat in low flame until small bubbles form.",
+      "Add starch and stir under low flame until a thickened texture forms.",
+      "Allow to cool or place in refrigerator to chill and serve.s"
+    ]
   },
   {
     "id": "3",
     "dishName": "CHICKPEA CAKE",
     "dishImage": "https://toriavey.com/images/2013/03/Spicy-Panko-Chickpea-Patties-.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "Boil chickpeas in water for about 20 minutes or until soft. Wait to cool.",
+      "In a food processor, process till minced-like texture. Put aside.",
+      "While waiting, clean carrots, onion and tomato, chop all of these into small cubes.",
+      "Cut tempeh into cubes of about 1 x 1 x 1 cm.",
+      "Heat the saucepan with 1 tsp of oil. Add minced garlic and ginger, fry till fragrant.",
+      "Turn to medium heat. Add chopped carrots, onions till soft and add tomato last.",
+      "After most of the water evaporates, remove from heat.",
+      "Mince cooked carrot, onions, tomatoes with 1 cup oats in a food processor.",
+      "Add all minced chickpeas, carrots, onions, tomato, flour, remaining oats, seasonings, herbs into the same saucepan.",
+      "Mix mixture until a loose but firm dough forms.",
+      "Form cakes of about 5cm diameter and 1 cm thickness.",
+      "Heat a frying pan with 2 tsp of oil. Pan fry till the surface turns golden brown and crisp.",
+      "Best to serve warm/hot with cold Sauce or Dips of your liking."
+    ]
   },
   {
     "id": "4",
     "dishName": "COCONUTBANANA SMOOTHIE",
-    "dishImage": "",
-    "recipe": ["", ""]
+    "dishImage": "https://thumbs.dreamstime.com/b/coconut-banana-smoothie-ingredients-copy-space-coconut-banana-smoothie-ingredients-143806324.jpg",
+    "recipe": [
+      " Stick a banana into the freezer. And use when preparing.",
+      " Take the banana and place into blender.",
+      "Pour the rolled oats.",
+      "Pour the coconut water.",
+      "Add the teaspoon of cinnamon.",
+      " Blend all the ingredients at normal speed for 3 minutes.",
+      "Once texture looks good, put at high speed for 30 seconds.",
+      " Pour into a large glass.",
+      "Drink up"
+    ]
   },
   {
     "id": "5",
     "dishName": "HOT CARAMEL JAM ",
     "dishImage": "https://www.cookingclassy.com/wp-content/uploads/2017/11/salted-caramel-sauce-9.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "Boil milk till it comes to a boil. Simmer for 3 to 4 mins.",
+      "Take coffee, mixed fruit jam, and caramel sauce together in a cup and mix well.",
+      "Add in a tsp of hot milk and beat till creamy.",
+      "Add whole hot milk and mix well.",
+      "Garnish with coffee powder, caramel sauce and serve hot."
+    ]
   },
   {
     "id": "6",
     "dishName": "NASI LEMAK",
     "dishImage": "https://image.shutterstock.com/image-photo/asian-food-nasi-lemak-260nw-1067721227.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "Wash the rice and pour in the coconut milk, salt, lemon grass, pandan leaves and ginger. Add the water to level 3 of the rice cooker and cook it.",
+      "Once it is done, mixed the rice in the cooker so that the coconut milk is evenly mixed around.",
+      "For the side dishes, it is optional for individual to cook whatever they like.",
+      "See the video link for the VFC teaching."
+    ]
   },
   {
     "id": "7",
     "dishName": "EGGLESS SPONGE VANILLA CAKE",
     "dishImage": "https://i.ytimg.com/vi/RVWfWXULW3c/maxresdefault.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "take a cake tin",
+      "grease it with melted butter",
+      "line parchment paper or dust with flour",
+      "take powdered sugar-1cup",
+      "sieve it",
+      "next pour oil 1/4 cup",
+      "mix and make smooth paste",
+      "put maida/all purpose flour- 1cup 8.baking soda- 1/2tsp 10. baking powder- 1tsp 11.salt 1/4 tsp"
+    ]
   },
   {
     "id": "8",
     "dishName": "CLASSICAL CISCO SINGLE CRUST",
     "dishImage": "https://www.kingarthurflour.com/sites/default/files/2019-08/gluten-free-pie-crust.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "1 1/3 cups sifted all-purpose flour",
+      "1/2 teaspoon salt",
+      "1/2 cup crisco shortening",
+      "3 tablespoons cold water"
+    ]
   },
   {
     "id": "9",
     "dishName": "RACHAEL RAY'S SMASHED POTATO",
     "dishImage": "https://www.rachaelraymag.com/.image/t_share/MTQ4NjQxMzkzMTg5ODU2OTQ3/smashed-red-potatoes-102828231.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "Boil potatoes until tender, 15 minutes. While the water boils and when the potatoes are cooking, chop or snip the chives or scallions",
+      "Boil potatoes until tender, 15 minutes. While the water boils and when the potatoes are cooking, chop or snip the chives or scallions.",
+      "Mash potatoes with half-and-half or milk using a potato masher.",
+      "Add in the cream cheese and smash until the cheese melts into the potatoes.",
+      "Add chives or scallions.",
+      "Season with salt and pepper, to your taste."
+    ]
   },
   {
     "id": "10",
     "dishName": "CHILI CHEESE BURRITOS ",
     "dishImage": "https://i.pinimg.com/236x/7f/24/2d/7f242d398bd89a03201a9519acf4ba98--burrito-recipes-beef-recipes.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "Combine chili, green chilies, taco seasoning, rice, and water in a medium sized pot.",
+      "Heat uncovered over low heat about 20 minutes, stirring occasionally to keep from sticking to bottom of pan. Near the end of cooking time, you will have to stir nearly constantly as the chili will have cooked down to a nice thick consistency.",
+      "Taste and make sure rice is cooked to your preferred softness and check thickness of chili to be sure it will stay in a tortilla.",
+      "Warm tortillas for several seconds in microwave, spread several tablespoons of chili mixture in center of tortillas, add cheese, salsa, and sour cream to taste, and fold into burrito.",
+      "Serve with chips and salsa or green salad."
+    ]
   },
   {
     "id": "11",
     "dishName": "CHILI-MAC CASSEROLE",
     "dishImage": "https://cafedelites.com/wp-content/uploads/2018/05/Beef-Chili-Mac-And-Cheese-IMAGE-5.jpg",
-    "recipe": ["", ""]
+    "recipe": [
+      "Preheat oven to 350 degrees",
+      "In medium saucepan, simmer chili until heated through.",
+      "Cook macaroni according to package directions; drain well and set aside.",
+      "Grease a deep 8-quart or similar casserole dish.",
+      "Spoon 1 cup of chili evenly on bottom of dish. Next, layer half of the macaroni, drizzle half of the ketchup (approx. 1/4 cup), half of the remaining chili and half of the cheeses. Repeat layering with remaining macaroni, 1/4 cup ketchup, remainder of chili and remaining cheeses. Top with jalapeno slices, if desired.",
+      "Cover and bake 30 minutes. Remove cover and bake an additional 10 minutes or until heated through and cheese is bubbly.",
+      "*NOTE: I prefer my home-made chili in this recipe, but if I use canned chili, I like to add chopped green pepper, chopped onion, 4 oz. can green chilies, cayenne pepper or whatever I have on hand to doctor it up."
+    ]
   },
   {
     "id": "12",
     "dishName": "SUMMER MELON SMOOTHIE",
     "dishImage": "https://media.istockphoto.com/photos/fresh-summer-melon-smoothie-picture-id823547466?k=6&m=823547466&s=170667a&w=0&h=w8AmaaRXUH2EvVBgM7LgKx98Rt7w-wcW9xm9h51HkTg=",
-    "recipe": ["", ""]
+    "recipe": [
+      "Place ice cubes in heavy-duty plastic bag and pound with mallet or hammer until coarsely crushed.",
+      "In blender, combine melon, ice and powdered sugar. Cover; blend until almost smooth."
+    ]
   }
 ]
