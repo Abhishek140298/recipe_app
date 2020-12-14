@@ -12,7 +12,7 @@ export default class App extends React.Component {
 
         <Switch>
           <Route  path='/' exact component={Home} />
-          <Route  path='/recipe' exact component={Recipe} />
+          <Route  path='/recipe/:id' exact component={Recipe} />
         </Switch>
       </>
     );

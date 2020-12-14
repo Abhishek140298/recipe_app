@@ -12,7 +12,7 @@ const Home = (props) => {
     <>
 		<h1 className='dishes_heading'>Choose Your Dishes</h1>
       {props.recipeData.map((cval, index) => {
-        return <Dishes name={cval.dishName} image={cval.dishImage} />;
+        return <Dishes name={cval.dishName} image={cval.dishImage} id={cval.id} />;
       })}
     </>
   );

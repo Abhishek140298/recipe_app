@@ -9,8 +9,7 @@ const Dishes = (props) => {
 
   return (
     <>
-      
-      <Link to='/recipe'>
+      <Link to={{pathname:`/recipe/${props.id}`}}>
         <div className='dish'>
           <div className='dish_image_div'>
             <img className='dish_image' src={props.image} />
@@ -22,4 +21,8 @@ const Dishes = (props) => {
     </>
   );
 };
-export default Dishes;
+const mapStateToProps = ({ RecipeReducer }) => {
+  const { isLoading, recipeData } = RecipeReducer;
+  return { isLoading, recipeData };
+};
+export default connect(mapStateToProps,{getRecipeData}) (Dishes);
