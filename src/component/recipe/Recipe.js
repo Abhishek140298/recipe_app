@@ -14,8 +14,8 @@ const Recipe = (props) => {
       <h1 className='heading'>Here is your Recipe</h1>
       <div className='recipe_box'>
         <ul>
-        
-          <li>{props.recipeData[props.match.params.id].recipe}</li>
+        {props.recipeData[props.match.params.id].recipe.map((cval)=>{return<li>{cval}</li>})}
+          
         </ul>
       </div>
       <div className='add_recipe_button'>Add Your Recipe</div>
