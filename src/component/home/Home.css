@@ -1,4 +1,7 @@
 .pagination{
 	display: flex;
 	justify-content: space-between;
+	cursor :pointer;
+	background-color: #ff99b0;
+margin-left: 40px;
 }
