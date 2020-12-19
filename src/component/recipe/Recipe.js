@@ -8,9 +8,10 @@ const Recipe = (props) => {
   useEffect(() => {
     props.getRecipeData();
   }, []);
-  console.log("arrayid", props.match.params.id)
-  return (
-    <div className='whole_container'>
+  const recipeLoad=()=>{
+    if(props.isLoading){
+      return(
+        <>
       <h1 className='heading'>Here is your Recipe</h1>
       <div className='recipe_box'>
         <ul>
@@ -19,7 +20,17 @@ const Recipe = (props) => {
         </ul>
       </div>
       <div className='add_recipe_button'>Add Your Recipe</div>
-    </div>
+      </>
+    )
+    }
+    else{
+      return(<h1>Loading</h1>)
+    }
+  }
+  return (
+    <div className='whole_container'>
+    {recipeLoad()}
+     </div>
   );
 };
 const mapStateToProps = ({ RecipeReducer }) => {
